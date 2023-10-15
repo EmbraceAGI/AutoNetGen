@@ -99,7 +99,7 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 
 <img src="./imgs/wx.png" alt="Support" width="200" style="display: block; margin: 0 auto;">
 
-## 🌟 stars Star History
+## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EmbraceAGI/AutoNetGen&type=Date)](https://star-history.com/#EmbraceAGI/AutoNetGen&Date)
 
