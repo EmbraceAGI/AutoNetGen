@@ -32,7 +32,7 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 
 ### 📥 安装与运行
 
-* 继续 AI 模型设计：可以点击[链接](https://chat.openai.com/share/f61b0f8a-34b0-4dc7-b5f2-bf517ee5cdd6) 继续宇宙演化
+* 继续 AI 模型设计：可以点击[链接](https://chat.openai.com/share/f61b0f8a-34b0-4dc7-b5f2-bf517ee5cdd6) 继续模型设计
 * 重新开始，请打开 GPT-4 的 [Advanced Data Analysis（原 Code Interpreter）功能](https://chat.openai.com/?model=gpt-4-code-interpreter)，并将[AutoNetGen.txt](prompts/AutoNetGen.txt)中的所有内容复制粘贴进对话框中运行。
 
 #### 前置条件
