@@ -95,7 +95,8 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 * GPT-4 API: Advanced Data Analysis 环境存在较多不稳定性，使用 GPT-4 API 可以实现更完备稳定的功能，若您有 GPT-4 API 提供，可以联系作者捐赠部分使用额度，感谢您的支持！
 * 若您有好的点子和对本工具的优化，欢迎联系我
 * 若 AutoNetGen 对您有帮助，欢迎请我喝一杯咖啡
-<div style="text-align:center;"> <img src="./imgs/wx.png" alt="Support" width="200"></div>
+
+<img src="./imgs/wx.png" alt="Support" width="200" style="display: block; margin: 0 auto;">
 
 ## 🙏 致谢
 * [LangGPT 提示词社区](http://feishu.langgpt.ai) LangGPT 提示词社区的朋友们的交流和实践给本项目带来许多有益的思考
