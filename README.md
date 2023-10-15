@@ -77,6 +77,7 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 
 💡 社区姊妹项目
 * [LangGPT 结构化提示词](http://feishu.langgpt.ai)，请点击[链接](https://github.com/yzfly/LangGPT)访问 LangGPT 项目。
+* [人生重来模拟器](https://github.com/EmbraceAGI/LifeReloaded)
 
 ### 📜 协议
 
