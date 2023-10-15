@@ -56,7 +56,7 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 #### AI 模型优化
 <img src="./imgs/ModelOptimization.png" alt="ModelOptimization" width="500">
 
-#### AA 模型部署——导出 ONNX
+#### AI 模型部署——导出 ONNX
 <img src="./imgs/ModelDeploy.png" alt="ModelDeploy" width="500">
 
 #### 完整对话
