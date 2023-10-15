@@ -99,5 +99,9 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 
 <img src="./imgs/wx.png" alt="Support" width="200" style="display: block; margin: 0 auto;">
 
+## 🌟 stars Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EmbraceAGI/AutoNetGen&type=Date)](https://star-history.com/#EmbraceAGI/AutoNetGen&Date)
+
 ## 🙏 致谢
 * [LangGPT 提示词社区](http://feishu.langgpt.ai) LangGPT 提示词社区的朋友们的交流和实践给本项目带来许多有益的思考
