@@ -3,7 +3,7 @@
   - [Name]: images, [Shape]: (batch_size, 3, 32, 32)
 [Outputs]: 
   - [Name]: scores, [Shape]: (batch_size, 10)
-[LayerNum]: 18
+[LayerNum]: 64
 [NetworkArchitecture]: CNN
 [AdditionalSpecialLayersOrTechniques]: Attention mechanisms, residual connections
 [DetailDescription]: Try to use the latest and greatest architectural design, a native, efficient and simple implementation.

@@ -70,6 +70,7 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 2. 文件无法下载：文件下载链接无效
 3. 环境状态丢失：环境变更，之前执行结果丢失
 4. 下载得到的代码文件内容不正确：查找到相应步骤，点击 show work 查看原代码，可手动复制代码并保存
+5. 资源超出限制：网络太大导致内存不足
 
 ### 🌐 开源与合作
 
@@ -105,3 +106,4 @@ Empower Artificial Intelligence to sculpt its own kind, where colossal models gr
 
 ## 🙏 致谢
 * [LangGPT 提示词社区](http://feishu.langgpt.ai) LangGPT 提示词社区的朋友们的交流和实践给本项目带来许多有益的思考
+* [ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)
